@@ -1,4 +1,4 @@
-# Presentaci-n
+# Presentación
 # Hola, soy Camila Ocampo
 
 Desarrolladora en formación con enfoque en desarrollo web y multimedia.  
